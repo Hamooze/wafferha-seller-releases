@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "packageName": "ae.nemu.alaaqadak.seller",
+  "versionName": "1.2.0",
+  "versionCode": 13,
+  "minimumSupportedVersionCode": 12,
+  "minSdk": 24,
+  "targetSdk": 36,
+  "publishedAt": "2026-09-09T22:56:34.456Z",
+  "releaseNotes": {
+    "en": "Improved restaurant setup, product management, 24-hour scheduling, Arabic and RTL support, account security, and seller app stability.",
+    "ar": "تحسين إعداد المطاعم وإدارة المنتجات والعمل بنظام 24 ساعة ودعم العربية واتجاه الواجهة وأمان الحساب واستقرار تطبيق البائع."
+  },
+  "preferredChannel": "direct",
+  "channels": {
+    "direct": {
+      "enabled": true,
+      "url": "https://github.com/Hamooze/wafferha-seller-releases/releases/download/v1.2.0-13/Wafferha-Seller-1.2.0-13-universal.apk",
+      "sha256": "9be22b9a7fc10945bba331a9e57335468cdfd76325c478bb81d665ee914ef979",
+      "sizeBytes": 92945008
+    },
+    "play": {
+      "status": "pending",
+      "url": "https://play.google.com/store/apps/details?id=ae.nemu.alaaqadak.seller"
+    }
+  }
+}
